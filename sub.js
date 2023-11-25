@@ -1,5 +1,5 @@
-const n1 = 10;
-const n2 = 20;
+const n1 = 40;
+const n2 = 30;
 
 const sub = n1 - n2;
 
