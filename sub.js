@@ -1,6 +1,6 @@
-const n1 = 40;
-const n2 = 30;
+const num1 = 40;
+const num2 = 30;
 
-const sub = n1 - n2;
+const sub = num1 - num2;
 
 console.log("sub: ", sub);
